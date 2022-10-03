@@ -1,0 +1,14 @@
+departure_city: '40e2c245-8646-11e6-9066-549f350fcb0c' # Brno (can be found and pasted from the Flixbus search URL once selected via the UI)
+departure_station: 'Brno,,Benešova tř.hotel GRAND'
+departure_date: '04.10.2022'
+departure_times_ordered_by_priority: ['19:10', '21:30']
+destination_city: '40de1ad1-8646-11e6-9066-549f350fcb0c' # Prague
+destination_station: 'Praha,,ÚAN Florenc'
+passengers:
+  children_0_5: 0
+  children_6_17: 0
+  student: 0
+  adult: 1
+  senior: 0
+  cz_disability_level_3: 0
+  bike_slot: 0
